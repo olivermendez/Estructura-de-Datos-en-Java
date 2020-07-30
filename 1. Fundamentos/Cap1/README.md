@@ -1,6 +1,6 @@
-## Capitulo 1. Estructuras fundamentales en Java
+## Capitulo 1. Estructuras Fundamentales
 
-@octocat :+1: Este material ya esta disponible en YouTube  - :shipit:
+@oliver.mendez :+1: Este material ya esta disponible en YouTube  - :shipit:
 
 - [x] @olivermendez *Importante*:
 ---
@@ -21,8 +21,8 @@ En este punto, asumimos que instaló con éxito el JDK y que pudo ejecutar los p
 - Arrays
 
 
-### Video de explicacion:
+### Video de explicacion :video_camera:
 
-### Video de Ejercicios
+### Video de Ejercicios :runner:
 
-### Video de reflexion
+### Video de reflexion :man_dancing:
