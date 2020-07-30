@@ -1,4 +1,10 @@
-# Aprende Java Profundo
+# Aprende Java como aprenden los mejores del mundo
+
+## Objetivos
+
+Simple. Aprender Java de la mejor manera.
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 ## Libros utilizados
 

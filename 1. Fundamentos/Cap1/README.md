@@ -1,14 +1,26 @@
 ## Capitulo 1. Estructuras fundamentales en Java
 
+
+### - [x] Importante:
+En este punto, asumimos que instaló con éxito el JDK y que pudo ejecutar los programas de muestra que le mostramos en el Capítulo 2 .Es hora de comenzar a programar. Este capítulo le muestra cómo se implementan en Java los conceptos básicos de programación, tales como tipos de datos, ramas y bucles.
+
+## Contenido:
+
 - Aprenderas a compilar Java desde un archivo de texto.
 - Entornos de desarrollo.
 - 3 Formas de comentar codigo
 - Tipos de Datos
 - Variables y Constantes
-- Operadores (+ , - , % , /)
+- Operadores
 - Strings
 - Input and Output
 - Control Flow
 - Big Numbers
 - Arrays
 
+
+- [x] @olivermendez, #refs, [links](youtube.com), **formatting**, and <del>tags</del> Video de explicacion:
+
+### Video de Ejercicios
+
+### Video de reflexion
