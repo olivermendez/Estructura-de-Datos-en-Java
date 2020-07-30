@@ -1,4 +1,4 @@
-# Aprende Java como aprenden los mejores del mundo
+# Aprende Java como aprenden los mejores del mundo :trophy:
 
 ## Objetivos
 
