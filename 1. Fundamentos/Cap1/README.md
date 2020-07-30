@@ -1,7 +1,8 @@
 ## Capitulo 1. Estructuras fundamentales en Java
 
 
-### - [x] Importante:
+- [x] @olivermendez Importante:
+---
 En este punto, asumimos que instaló con éxito el JDK y que pudo ejecutar los programas de muestra que le mostramos en el Capítulo 2 .Es hora de comenzar a programar. Este capítulo le muestra cómo se implementan en Java los conceptos básicos de programación, tales como tipos de datos, ramas y bucles.
 
 ## Contenido:
@@ -19,7 +20,7 @@ En este punto, asumimos que instaló con éxito el JDK y que pudo ejecutar los p
 - Arrays
 
 
-- [x] @olivermendez, #refs, [links](youtube.com), **formatting**, and <del>tags</del> Video de explicacion:
+### Video de explicacion:
 
 ### Video de Ejercicios
 
